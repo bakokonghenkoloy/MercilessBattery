@@ -203,10 +203,10 @@
 #                                 release feels fluid. Previously both directions used 0.3.
 # Version 2.21 April 27, 2026   - Finally released to GitHub repo and fixed every single file
 #                                 path directories for other laptops too instead of mine!
-# Version 2.22 May idk, 2026  - Animation button when on hover or on click will be fixed soon
+# Version 2.22 idk, 2026        - Animation button when on hover or on click will be fixed soon
 #                                 maybe i guess since i find it kinda blocky, blurry or strange i guess.
 #                                 It'll be soon.
-# Version 3.0 Unknown date 2026 - Final tweaks. Code cleanup. Comment polish. Version bump to 3.0.
+# Version 3.0 Unknown date      - Final tweaks. Code cleanup. Comment polish. Version bump to 3.0.
 #                                 Only in the future however...
 # ─────────────────────────────────────────────────────────────────
 
